@@ -1,6 +1,8 @@
 # AniBot
 2023-srtp Computational Design of Singlar Actuated Linkage System 
+
 Anibot-自动化单驱动行走结构设计
+
 这是一个实验性质的项目。预期功能尚未完全实现。
 
 文件结构：
